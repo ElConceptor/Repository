@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "Repository",
+    "packageName": "io.github.jhipster.application",
+    "packageFolder": "io/github/jhipster/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.2",
+    "jwtSecretKey": "OWZkMzY2ZjBkZWNlYWMxZWE1OTgyYTMzYzg5Yzg1ODA3ZWVkZWIzOTMyYjI3OTY4ZWViMjRkMDdlMmQ2ZTNlOTc0ZmIxNDBiMjhhMTliYjFhMWQ1YjY2YzZkMTRjZDUzMmNhNTE0MGZkNzZiYTY5ZDI2MzM0MDAwZDg3M2VkYjA=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ElConceptor",
+  "repository-name": "Repository"
+}
